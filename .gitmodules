@@ -1,0 +1,6 @@
+[submodule "django_BBlog"]
+	path = django_BBlog
+	url = ./django_BBlog/
+[submodule "website"]
+	path = website
+	url = ./website/
