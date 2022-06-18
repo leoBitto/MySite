@@ -3,4 +3,4 @@
 	url = https://github.com/leoBitto/django-BBlog.git
 [submodule "website"]
 	path = website
-	url = ./website/
+	url = https://github.com/leoBitto/website.git
