@@ -1,0 +1,7 @@
+to deploy on digitalocean:
+    -follow https://docs.digitalocean.com/tutorials/app-deploy-django-app/
+
+    -migrate every model by app 
+        python manage.py migrate 'nameOfApp'
+
+
